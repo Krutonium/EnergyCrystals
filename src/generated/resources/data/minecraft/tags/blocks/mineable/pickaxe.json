@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "energycrystals:energy_crystal_ore_overworld",
+    "energycrystals:energy_crystal_ore_nether",
+    "energycrystals:energy_crystal_ore_end",
+    "energycrystals:energy_crystal_ore_deepslate"
+  ]
+}
